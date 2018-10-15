@@ -1,0 +1,23 @@
+img{
+	padding:0 5px 0 5px;
+}
+
+table, th, td{
+	border-collapse: collapse;
+	border: 5px dashed #ffc05c;
+}
+
+th{
+	background-color:#b2592c;
+	font-weight: normal;
+	padding:10px;
+	transition:all .3s;
+}
+
+th:hover{
+	background-color:#ffc05c;
+}
+
+.centerit{
+	text-align:center;
+}

@@ -1,0 +1,17 @@
+.centerit{
+	text-align:center;
+}
+
+.center{
+	display:block;
+	margin:0 auto 0 auto;
+}
+
+table, th, td{
+	border-collapse: collapse;
+}
+
+th{
+	font-weight: normal;
+	padding:10px;
+}
